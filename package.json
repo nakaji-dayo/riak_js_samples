@@ -1,0 +1,25 @@
+{
+    "name": "riak_js_samples",
+    "version": "0.0.0",
+    "description": "study riak-js(https://github.com/mostlyserious/riak-js)",
+    "main": "guide.js",
+    "dependencies": {
+	"riak-js": "~0.4.1",
+	"async": "~0.1.22",
+	"colors": "0.6.0-1"
+    },
+    "devDependencies": {},
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/nakaji-dayo/riak_js_samples"
+    },
+    "keywords": [
+	"sample",
+	"riak-js"
+    ],
+    "author": "daishi nakajima",
+    "license": "BSD"
+}
